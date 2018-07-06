@@ -16,15 +16,15 @@ ol {
   color: #9932CC;
   background-color: white;
   list-style-type: none;
-  align-items: center;
+  text-align: center;
 }
 
 ul {
   font-size: 20px;
-  color: 	#DA70D6;
+  color: #DA70D6;
   background-color: #AFEEEE;
   list-style-type: none;
-  align-items: center;
+  text-align: center;
 }
 
 a {
@@ -42,7 +42,8 @@ a:visited {
 
 a:hover {
   background-color: #9370DB;
-  font-weight: bold; 
+  font-weight: bold;
+  border-radius: 20%;
 }
 
 a:active {
@@ -53,6 +54,7 @@ h2,
 p {
   color: white;
   background-color: silver;
+  text-align: center;
 }
 
 img {
