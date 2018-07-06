@@ -24,6 +24,7 @@ ul {
   color: 	#DA70D6;
   background-color: #AFEEEE;
   list-style-type: none;
+  align-items: center;
 }
 
 a {
